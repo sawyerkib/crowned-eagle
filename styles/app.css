@@ -1,0 +1,13 @@
+body {
+  background: #85531E; 
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  width: 900px;
+  margin: 50px auto;
+  background: white;
+}
