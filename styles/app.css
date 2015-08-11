@@ -1,5 +1,6 @@
 body {
-  background: #85531E; 
+  background: #85531E;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
 img {
@@ -10,4 +11,5 @@ img {
   width: 900px;
   margin: 50px auto;
   background: white;
+  padding: 15px;
 }
